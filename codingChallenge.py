@@ -17,3 +17,8 @@ print("Hello " + input("What is your name?"))
 
 # Input function
 print(len(input("What is your name?")))
+
+# Variables execise
+# Don't change the code below
+a = input("a:")
+b = input("b:")

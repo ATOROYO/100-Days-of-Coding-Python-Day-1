@@ -23,6 +23,8 @@ print(len(input("What is your name?")))
 a = input("a:")
 b = input("b:")
 
+# The logic
+c = a
 a = b
-b = a
+b = c
 print(a , b)

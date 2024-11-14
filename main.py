@@ -6,3 +6,8 @@ print(name)
 
 name = "Sharon"
 print(name)
+
+# Variable using input function
+name = input("What is your name?")
+print(name)
+print(len(name))

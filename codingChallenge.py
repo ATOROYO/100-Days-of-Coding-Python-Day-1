@@ -22,3 +22,7 @@ print(len(input("What is your name?")))
 # Don't change the code below
 a = input("a:")
 b = input("b:")
+
+a = b
+b = a
+print(a , b)

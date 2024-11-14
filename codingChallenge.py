@@ -14,3 +14,6 @@ print("New lines can be created with a backlash ans n")
 
 # Input function
 print("Hello " + input("What is your name?"))
+
+# Input function
+print(len(input("What is your name?")))
